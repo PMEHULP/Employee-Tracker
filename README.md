@@ -29,3 +29,9 @@ Data Visualization & Dashboard Design
 🚀 Outcome
 
 This dashboard enables efficient employee tracking, improves visibility into workforce trends, and supports better organizational planning through intuitive and interactive visuals.
+
+
+
+https://app.powerbi.com/reportEmbed?reportId=9e93718c-250d-42aa-98b6-416fcb1866dc&autoAuth=true&ctid=061943ed-39e4-4a38-8031-598a74eee0f4
+
+
